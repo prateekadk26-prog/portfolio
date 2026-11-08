@@ -1,5 +1,10 @@
 # PORTFOLIO
 A simple portfolio that include hero section, interactive nav bar, about me section, skills , journey and working contact me section.
+## Website Overview
+### Home Page
+![Home Page](home.png)
+### About Page
+![About Page](about.png)
 ## Theme and Design
 The website follows minimalist , modern , and creative design with bold elements.
 
@@ -19,6 +24,10 @@ The website follows minimalist , modern , and creative design with bold elements
 * hovering effects and animation
 * typing effects and fully functional form
 
+## Dependencies
+- vs code
+- Window 11 pro
+  
 ## Technologies Used
 * HTML
 * CSS
