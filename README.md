@@ -1,5 +1,16 @@
 # PORTFOLIO
 A simple portfolio that include hero section, interactive nav bar, about me section, skills , journey and working contact me section.
+## Theme and Design
+The website follows minimalist , modern , and creative design with bold elements.
+
+## Website Sections
+- Home: Introduction featuring my name, developer identify, interest , creative illustration, and social media links.
+- About Me: About my passion for programming, electronics and mathematics.
+- Skills: Showcasing some technical abilities.
+- Projects: Collection of my personal projects and creations.
+- Journey: Timeline highlighting my learning experience and achievements.
+- contact: A section where visitors can contact me.
+  
 ## Key Features
 * Interactive Navbar
 * Attractive hero section
